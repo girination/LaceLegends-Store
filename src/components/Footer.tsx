@@ -12,8 +12,8 @@ export default function Footer() {
   // TODO: Replace with your actual contact information
   const contactInfo = {
     email: 'contact@lacelegends.com',
-    phone: '+267 XX XXX XXX',
-    address: 'Palapye, Botswana',
+    phone: '+267 77 015 089',
+    address: 'Gaborone, Botswana',
   };
 
   return (
